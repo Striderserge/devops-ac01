@@ -1,4 +1,6 @@
 #Melhores Atletas  
 Ayrton Senna.  
-Arnold Schwarzenegger  
+Daniel Alves 
+Cristiano Ronaldo  
+Arnold Schwarzenegger    
 ---
